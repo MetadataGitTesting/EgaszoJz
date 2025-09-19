@@ -1,0 +1,58 @@
+name: norris.baumbach
+description: data-warehouse
+version: 0.0.1
+author: wpuckupv.h25ngwhh@nl4ukwt6.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: norrisbaumbach
+  parentArtefactID: team1758325485030
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:44:45'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:44:45'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:44:45.890117Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1363170186'
+  createdAt: '2025-09-19T23:44:45.890117Z'
+  type: plibMaven
+projectDependencies:
+  '510':
+    projectUID: 510
+    projectName: nickole.spencer
+    repositoryPath: gitUri=http://gitserver:3000/dev_GjhjuMNc_team_821/dev_GjhjuMNc_project_510.git&subPath=
+    version: nickole.spencer/3.4.991
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:44:46'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
